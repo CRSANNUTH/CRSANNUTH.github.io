@@ -1,4 +1,5 @@
-theme: minima
+theme: minima 
+
 # Quickstart for GitHub Pages
 In this article
 Introduction
